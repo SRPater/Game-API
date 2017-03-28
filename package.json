@@ -1,0 +1,18 @@
+{
+  "name": "gameapi",
+  "version": "1.0.0",
+  "description": "API met een gamecollectie voor de eerste praktische opdracht voor CMTPRG01-6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^4.7.1"
+  }
+}
